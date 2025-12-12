@@ -1,12 +1,12 @@
-#🌤️ Weathercast
+🌤️# Weathercast
 
 A simple and modern weather forecasting web app built with HTML, CSS, and JavaScript, powered by WeatherAPI.
 
 
-![Mockup](Mockup-img.png)
+![Mockup](asset/Mockup-img.png)
 
 
-#📌 Overview
+📌# Overview
 
 WeatherCast provides real-time weather information for any city worldwide. With a clean UI and fast search functionality, users can instantly access important weather details such as:
 
